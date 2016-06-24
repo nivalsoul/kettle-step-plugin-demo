@@ -1,0 +1,7 @@
+mvn install:install-file -DgroupId=org.pentaho.di -DartifactId=kettle-core -Dversion=6.0.0.0-353 -Dpackaging=jar -Dfile=E:\项目程序\edb\mvnLibs\kettle-core-6.0.0.0-353.jar
+mvn install:install-file -DgroupId=org.pentaho.di -DartifactId=kettle-engine -Dversion=6.0.0.0-353 -Dpackaging=jar -Dfile=E:\项目程序\edb\mvnLibs\kettle-engine-6.0.0.0-353.jar
+mvn install:install-file -DgroupId=org.pentaho.di -DartifactId=kettle-dbdialog -Dversion=6.0.0.0-353 -Dpackaging=jar -Dfile=E:\项目程序\edb\mvnLibs\kettle-dbdialog-6.0.0.0-353.jar
+mvn install:install-file -DgroupId=org.pentaho.di -DartifactId=kettle-ui-swt -Dversion=6.0.0.0-353 -Dpackaging=jar -Dfile=E:\项目程序\edb\mvnLibs\kettle-ui-swt-6.0.0.0-353.jar
+mvn install:install-file -DgroupId=org.pentaho.di -DartifactId=pentaho-metadata -Dversion=6.0.0.0-353 -Dpackaging=jar -Dfile=E:\项目程序\edb\mvnLibs\pentaho-metadata-6.0.0.0-353.jar
+mvn install:install-file -DgroupId=org.pentaho.di -DartifactId=swt -Dversion=6.0.0.0-353 -Dpackaging=jar -Dfile=E:\项目程序\edb\mvnLibs\swt-6.0.0.0-353.jar
+mvn install:install-file -DgroupId=org.pentaho.di -DartifactId=metastore -Dversion=6.0.0.0-353 -Dpackaging=jar -Dfile=E:\项目程序\edb\mvnLibs\metastore-6.0.0.0-353.jar
